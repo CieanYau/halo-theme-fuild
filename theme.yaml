@@ -1,0 +1,17 @@
+apiVersion: theme.halo.run/v1alpha1
+kind: Theme
+metadata:
+  name: Halo-Theme-Fluid
+spec:
+  displayName: Theme-Fluid
+  author:
+    name: CieanYau
+    website: https://sort.uninull.cn
+  description: 一个Halo主题，Fluid🔦
+  logo: https://halo.run/logo
+  website: https://github.com/CieanYau/halo-theme-fuild
+  repo: https://github.com/CieanYau/halo-theme-fuild
+  settingName: "theme-fluid-setting"
+  configMapName: "theme-fluid-configMap"
+  version: 0.0.1
+  require: 2.13.0
